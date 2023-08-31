@@ -3,7 +3,7 @@
 /**
  * binary_tree_rotate_right - Right-rotates a binary tree.
  * @tree: A pointer to the root node of the tree to rotate.
- * Martin
+ * Ifeanyi
  *
  * Return: A pointer to the new root node after rotation.
  */
