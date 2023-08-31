@@ -7,7 +7,7 @@
  * @lo: The value of the smallest node visited thus far.
  * @hi: The value of the largest node visited this far.
  *
- * MArtin
+ * Valentine
  * Return: If the tree is a valid BST, 1, otherwise, 0.
  */
 int is_bst_helper(const binary_tree_t *tree, int lo, int hi)
