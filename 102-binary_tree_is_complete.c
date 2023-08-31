@@ -3,7 +3,7 @@
 /**
  * binary_tree_size - get the size of a binary tree
  * @tree: the binary tree
- * Martin
+ * Ifeanyi
  * Return: number of nodes in the binary tree
  */
 size_t binary_tree_size(const binary_tree_t *tree)
