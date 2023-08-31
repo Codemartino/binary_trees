@@ -3,7 +3,7 @@
 /**
  * create_tree - creates an AVL tree with recursion
  *
- * Akudugu
+ * Akamigbo
  * @node: pointer node
  * @array: input array of integers
  * @size: size of array
