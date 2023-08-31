@@ -3,7 +3,7 @@
 /**
  * bal - Measures balance factor of a AVL
  * @tree: tree to go through
- * Akudugu
+ * Akamigbo
  * Return: balanced factor
  */
 void bal(avl_t **tree)
