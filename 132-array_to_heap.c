@@ -5,7 +5,7 @@
  * @array: a pointer to the first element of the array to be converted
  * @size: the number of element in the array
  *
- * Akudu
+ * valentine
  * Return: a pointer to the root node of the created Binary Heap
  * NULL on failure
  */
