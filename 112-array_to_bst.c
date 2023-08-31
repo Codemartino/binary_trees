@@ -4,7 +4,7 @@
  * array_to_bst - Builds a binary search tree from an array.
  * @array: A pointer to the first element of the array to be converted.
  * @size: The number of elements in @array.
- * Martin
+ * Ifeanyi
  *
  * Return: A pointer to the root node of the created BST, or NULL upon failure.
  */
