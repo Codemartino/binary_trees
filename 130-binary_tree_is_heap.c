@@ -3,7 +3,7 @@
 /**
  * check_max - goes through a binary tree cheking ropt as max value
  * @tree: pointer to the root
- * Martin
+ * valentine
  *
  * Return: 1 if all nodes are max, 0 in other cases
  **/
