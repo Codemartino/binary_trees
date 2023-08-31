@@ -43,7 +43,7 @@ int balance(const binary_tree_t *tree)
  * @new: A double pointer to store the new node.
  * @value: The value to insert into the AVL tree.
  *
- * Akudugu
+ * Akamigbo
  * Return: A pointer to the new root after insertion, or NULL on failure.
  */
 avl_t *avl_insert_recursive(avl_t **tree, avl_t *parent,
