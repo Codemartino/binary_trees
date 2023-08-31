@@ -69,7 +69,7 @@ bst_t *bst_delete(bst_t *root, bst_t *node)
  * @node: A pointer to the current node in the BST.
  * @value: The value to remove from the BST.
  *
- * Akudugu
+ * Akamigbo
  * Return: A pointer to the root node after deletion.
  */
 bst_t *bst_remove_recursive(bst_t *root, bst_t *node, int value)
